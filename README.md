@@ -1,6 +1,6 @@
 # bla_gen
  
-Bitcoin Legacy Address (BLA) generator.
+Bitcoin Legacy Address (BLA) Generator.
 <br> </br>
 Randomly generated Bitcoin Legacy Addresses will be output into a .txt file labeled (data.txt) </br>
 in the directory in which either generator.py or genV2.py has been executed from. </br>
